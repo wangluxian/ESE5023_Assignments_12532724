@@ -1,0 +1,4 @@
+(+5) First try to using chinese in the assignment, a symbol of national power!
+1. (-0) 
+2. (-0) You should reduce the amount of output — it currently looks a bit overwhelming and hard to follow. Keeping it more concise would make the results clearer.
+3. (+3) Good visualization！
