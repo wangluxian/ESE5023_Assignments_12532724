@@ -1,0 +1,9 @@
+Please make sure to name your code file (.ipynb) properly next time. The file you uploaded this time is named “Untitled.ipynb.”
+
+1.1 (-0) 
+1.2(-4) Please refer to the standard result. The current figure is essentially incorrect. In addition, please use np.interp to ensure that the visualization matches the standard reference. At the moment, there is no trend curve shown in the plot.
+
+1.3 (-2) The figure is incorrect. Please compute deseasonalized values using deseasonalized = pt - clim.sel(month=pt["time.month"]), as this avoids potential broadcasting errors in xarray.
+
+2. (-0) 
+3. (-0) 
