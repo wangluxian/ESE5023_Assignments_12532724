@@ -1,0 +1,3 @@
+
+1 (-4) The scatter plot is missing, the color bar lacks a label, and the map layout does not match the reference.
+2. (-0) 
